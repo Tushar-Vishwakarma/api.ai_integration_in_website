@@ -1,1 +1,3 @@
 # api.ai_integration_in_website
+
+I had developed some chat bots using API.ai and able to put in on social media platforms such as Fb, Twitter, kik etc. but I was trying to put that bot on my personal website and unable to do that although the doucmentation is available on the website but still the output was not in proper format so I thought of sharing the code it will show only user's input and output. Download it from the repository all you need to do is put your key there. You can fin out the key by clicking on the gear icon. If you are new to this you probably need a tutorial of this. You can switch too https://learnwitheducators.wordpress.com/ 
